@@ -1,0 +1,32 @@
+//---------------------//
+MooUFO Android
+
+Keystore password: ue7nfh89kahf6
+---
+Alias: 			mooufo-sliverbroomstd
+Pasword:		h73ksl896sw2
+Validity (years):	50
+---
+First and last name: 	Sergio Roman Lara Espinosa de los Monteros
+Organitational Unit:	---
+Organization:		Sliverbroom Studios
+City or Locality:	Zapopan
+State or Province:	Jalisco
+Country Code (XX):	52
+
+//---------------------//
+MooUFO iOS
+
+Keystore password: ue7nfh89kahf6
+
+-----------------------
+Youtube
+
+https://youtu.be/UzrUXf-sjfg
+
+Run around a planet fleeing meteorites that burn you and aliens that abduct you.
+
+The video and the game were developed by Sliverbroom Studios
+with the next persons who are the owners:
+- Sergio Roman Lara Espinosa de los Monteros
+- Humberto Alejandro Espinosa de los Monteros

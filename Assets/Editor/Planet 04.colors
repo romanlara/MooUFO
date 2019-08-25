@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12323, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: Planet 04
+  m_EditorClassIdentifier: 
+  m_Presets:
+  - m_Name: 
+    m_Color: {r: 0.11764705, g: 1, b: 0.92697763, a: 1}
+  - m_Name: 
+    m_Color: {r: 0, g: 0.37429, b: 0.8897059, a: 1}
+  - m_Name: 
+    m_Color: {r: 1, g: 0.35294116, b: 0.35294116, a: 1}
+  - m_Name: 
+    m_Color: {r: 0.14462487, g: 0, b: 0.9117647, a: 1}
+  - m_Name: 
+    m_Color: {r: 0.35294116, g: 0.97322506, b: 1, a: 1}
+  - m_Name: 
+    m_Color: {r: 0, g: 0.27038538, b: 0.9117647, a: 1}
+  - m_Name: 
+    m_Color: {r: 0, g: 1, b: 0.22727275, a: 0.49803922}
+  - m_Name: 
+    m_Color: {r: 0.27257365, g: 0.9037394, b: 1.2782763, a: 3.33}
+  - m_Name: 
+    m_Color: {r: 0.96, g: 0.722, b: 0, a: 0.5}
+  - m_Name: 
+    m_Color: {r: 0.922, g: 0.128, b: 1, a: 0.5}
+  - m_Name: 
+    m_Color: {r: 1, g: 0.35294116, b: 0.9018254, a: 1}
+  - m_Name: 
+    m_Color: {r: 0, g: 0.02520276, b: 0.52205884, a: 1}
+  - m_Name: 
+    m_Color: {r: 0, g: 0.032961372, b: 0.36764705, a: 1}
+  - m_Name: 
+    m_Color: {r: 0.0036224083, g: 0.49264705, b: 0.49264705, a: 1}

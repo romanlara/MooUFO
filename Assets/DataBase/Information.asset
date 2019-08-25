@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c693de7ba581774aabc7ea021d524b5, type: 3}
+  m_Name: Information
+  m_EditorClassIdentifier: 
+  m_CoinPurse: 0
+  m_Planets:
+    m_List:
+    - m_Prefab: {fileID: 1944753871191464, guid: b26b8ce4ef1fd63499502084c2388f59,
+        type: 2}
+      m_Sprite: {fileID: 0}
+      m_Price: 0
+      m_Bought: 1
+    - m_Prefab: {fileID: 1897383759227360, guid: b49d9633759bd4348bae3840bd5ce08d,
+        type: 2}
+      m_Sprite: {fileID: 0}
+      m_Price: 200
+      m_Bought: 0
+    - m_Prefab: {fileID: 1999745867486548, guid: 81e035d0b446a2847bf2f387af23d7c1,
+        type: 2}
+      m_Sprite: {fileID: 0}
+      m_Price: 200
+      m_Bought: 0
+    - m_Prefab: {fileID: 1063092410766416, guid: 79c1b142f507193448790528894790a3,
+        type: 2}
+      m_Sprite: {fileID: 0}
+      m_Price: 200
+      m_Bought: 0
+  m_Characters:
+    m_List:
+    - m_Prefab: {fileID: 1916385642811486, guid: d1881cca3c2e8e24a92b474748972e88,
+        type: 2}
+      m_Sprite: {fileID: 21300000, guid: 013127cdc6490df4abd18e3380be6e3d, type: 3}
+      m_Price: 0
+      m_Bought: 1
+    - m_Prefab: {fileID: 1350676336312310, guid: 9a78fa520213831428b183316c2de252,
+        type: 2}
+      m_Sprite: {fileID: 21300000, guid: d88de363a703db14fa09dd1416423a33, type: 3}
+      m_Price: 100
+      m_Bought: 0
+    - m_Prefab: {fileID: 1495941756290592, guid: fb54bf7aec74f654ea21de7111530606,
+        type: 2}
+      m_Sprite: {fileID: 21300000, guid: 84d0eef03f724164a96bdf66f948b00e, type: 3}
+      m_Price: 100
+      m_Bought: 0
+    - m_Prefab: {fileID: 1902669383697122, guid: 199ecaabfaaa8904fb42b93e79b53f29,
+        type: 2}
+      m_Sprite: {fileID: 21300000, guid: acd290328a01b7f438085b70debf54b4, type: 3}
+      m_Price: 100
+      m_Bought: 0
+    - m_Prefab: {fileID: 1883058526661620, guid: ff6fd7947e299a84eae54c2dba1ab173,
+        type: 2}
+      m_Sprite: {fileID: 21300000, guid: 6127b01855fbb0d49849e2548fd06c86, type: 3}
+      m_Price: 100
+      m_Bought: 0
+    - m_Prefab: {fileID: 1498568323496436, guid: 0bfab02ba0dfe1643866f4c8c2c80a25,
+        type: 2}
+      m_Sprite: {fileID: 21300000, guid: 3706a9fd810a6cc44bb1644b4a8958a0, type: 3}
+      m_Price: 100
+      m_Bought: 0
+    - m_Prefab: {fileID: 1794588025481376, guid: 9dc7cf45deebfda4a9d572f18e3aeaf2,
+        type: 2}
+      m_Sprite: {fileID: 21300000, guid: 557db41c7717cf140b58453a35244e78, type: 3}
+      m_Price: 100
+      m_Bought: 0
+    - m_Prefab: {fileID: 1275170351500792, guid: 709b694d514cdb84b9824aedf1388509,
+        type: 2}
+      m_Sprite: {fileID: 21300000, guid: d727f189e12d19243b062aafc6a34ae6, type: 3}
+      m_Price: 100
+      m_Bought: 0
+    - m_Prefab: {fileID: 1537987717422636, guid: ca4cc6112606a2b42836d05e4d18a474,
+        type: 2}
+      m_Sprite: {fileID: 21300000, guid: ad689389c9f5f5c499505866fceac781, type: 3}
+      m_Price: 100
+      m_Bought: 0
+    - m_Prefab: {fileID: 1845116740427648, guid: da88bccc1a8b31a418671a2518534c88,
+        type: 2}
+      m_Sprite: {fileID: 21300000, guid: c729da4f355b5eb44811694563b9a111, type: 3}
+      m_Price: 100
+      m_Bought: 0
+    - m_Prefab: {fileID: 1511522990348888, guid: 81d57e2d105c80846bc3d828b79aa00e,
+        type: 2}
+      m_Sprite: {fileID: 21300000, guid: 3307edd26c35f7747b19120f3e34ba6c, type: 3}
+      m_Price: 100
+      m_Bought: 0
+    - m_Prefab: {fileID: 1485660739633852, guid: 8ca776267609cc246a6b673151e90274,
+        type: 2}
+      m_Sprite: {fileID: 21300000, guid: f7ddda43ce5097943a1555c227a63feb, type: 3}
+      m_Price: 100
+      m_Bought: 0
+    - m_Prefab: {fileID: 1833248962340856, guid: 40d9bcc6f171fe7449baca4bac52b75e,
+        type: 2}
+      m_Sprite: {fileID: 21300000, guid: c156644822ef010478b3cf7ebf5fa116, type: 3}
+      m_Price: 100
+      m_Bought: 0
+    - m_Prefab: {fileID: 1231126781619324, guid: 6d8a35abf87923740891f59cffb5b413,
+        type: 2}
+      m_Sprite: {fileID: 21300000, guid: 2a62c9436fef06749b9d6fb0ee2cbbb2, type: 3}
+      m_Price: 100
+      m_Bought: 0
+    - m_Prefab: {fileID: 1066860942053542, guid: c29e01b05f3fa184898e1e678bd0beb0,
+        type: 2}
+      m_Sprite: {fileID: 21300000, guid: 3f78d6fd02f25e84290158282008f322, type: 3}
+      m_Price: 100
+      m_Bought: 0
+    - m_Prefab: {fileID: 1030943131642728, guid: 27e2bea536f180a49bd52c7a3360b183,
+        type: 2}
+      m_Sprite: {fileID: 21300000, guid: 36281f0578d452a45989932b58c73f73, type: 3}
+      m_Price: 100
+      m_Bought: 0
+    - m_Prefab: {fileID: 1678946036448356, guid: 390baa080a0e23d41bada4a26f9236c5,
+        type: 2}
+      m_Sprite: {fileID: 21300000, guid: 28ef0772f8e74d64ab944ec9d8da5686, type: 3}
+      m_Price: 100
+      m_Bought: 0
+    - m_Prefab: {fileID: 1407953410024210, guid: f72f3054a7cc8274cb60f352cf64e06f,
+        type: 2}
+      m_Sprite: {fileID: 21300000, guid: bd6458247798e1647ac378351a714269, type: 3}
+      m_Price: 100
+      m_Bought: 0
+    - m_Prefab: {fileID: 1120983758217200, guid: 303710a255589bf4884e6df357e17fa5,
+        type: 2}
+      m_Sprite: {fileID: 21300000, guid: 3c7d54b02ffaa1746916b98b3b6d1d25, type: 3}
+      m_Price: 100
+      m_Bought: 0
+    - m_Prefab: {fileID: 1685339039811390, guid: 332e9aee43c22ee44b8e7c5beacf6a84,
+        type: 2}
+      m_Sprite: {fileID: 21300000, guid: 9f28607a674ae964ca7cab002940ee5b, type: 3}
+      m_Price: 100
+      m_Bought: 0
+    - m_Prefab: {fileID: 1541333610069744, guid: 95d66e2f2d250c44eba3fdda93620c61,
+        type: 2}
+      m_Sprite: {fileID: 21300000, guid: 49d5a7a0cf1b8c640afd743f766e5270, type: 3}
+      m_Price: 100
+      m_Bought: 0

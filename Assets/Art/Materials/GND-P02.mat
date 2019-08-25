@@ -1,0 +1,206 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: GND-P02
+  m_Shader: {fileID: 4800000, guid: d82f814a197c6446bb3cdb992946c136, type: 3}
+  m_ShaderKeywords: _FLOW_DRIFT _HEIGHTBASED_BLENDING _HEIGHTBASED_TRANSPARENCY _NORMALMAP
+    _SHOWGREEN_ON _SHOWRED_ON _USEDRIFT2_ON _USEDRIFT3_ON _USEP1_2_ON _USEP1_3_ON
+    _VTP_EMISSION
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: 9ee33258b6450514a8f098e5fed65bd7, type: 3}
+        m_Scale: {x: 3, y: 3}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap2:
+        m_Texture: {fileID: 2800000, guid: 02ee32a1be1cd8746b83e2ce088e67b0, type: 3}
+        m_Scale: {x: 5, y: 5}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap3:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CombinedMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CombinedMap2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CombinedMap3:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailBumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: f3aaddf98dc358f48ab65c8c43d26106, type: 3}
+        m_Scale: {x: 3, y: 3}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex2:
+        m_Texture: {fileID: 2800000, guid: 06fb5363cdb8d374d8d328416582023c, type: 3}
+        m_Scale: {x: 5, y: 5}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex3:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecularTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecularTex2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecularTex3:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BaseHeight2: 0
+    - _BaseHeight3: 0
+    - _BlendSmooth2: 0.306
+    - _BlendSmooth3: 0.5
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DepthBias: 50
+    - _DepthBiasPower: 2
+    - _DepthBiasThreshold: 0
+    - _DetailNormalMapScale: 1
+    - _DetailNormalScale: 1
+    - _DetailScaleU: 1
+    - _DetailScaleV: 1
+    - _DstBlend: 0
+    - _Emission: 0
+    - _Emission2: 0
+    - _Emission3: 0
+    - _FlowSpeed2: 0.25
+    - _FlowSpeed3: 0.25
+    - _GlossMapScale: 1
+    - _Glossiness: 0.44
+    - _GlossyReflections: 1
+    - _HeightBasedTransparency2: 0.632
+    - _HeightBasedTransparency3: 0.5
+    - _HeightmapFactor2: 0.058
+    - _HeightmapFactor3: 0.5
+    - _Metallic: 0
+    - _Metallic2: 0
+    - _Metallic3: 0
+    - _Mode: 0
+    - _NormalScale: 1
+    - _NormalScale2: 1
+    - _NormalScale3: 1
+    - _Occlusion: 1
+    - _Occlusion2: 1
+    - _Occlusion3: 1
+    - _OcclusionStrength: 1
+    - _Parallax: 0
+    - _Parallax2: 0
+    - _Parallax3: 0
+    - _ParallaxInterpolation: 15
+    - _Shininess: 0.078125
+    - _Smoothness: 0.446
+    - _Smoothness2: 0.446
+    - _Smoothness3: 0.446
+    - _SmoothnessTextureChannel: 0
+    - _Specular: 0
+    - _Specular2: 0
+    - _Specular3: 1
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _ZWrite: 1
+    - _flowNormals: 0
+    - _flowOnlyNormal: 0
+    - _showAlpha: 0
+    - _showBlue: 0
+    - _showGeneral: 1
+    - _showGreen: 1
+    - _showParallax: 0
+    - _showRed: 1
+    - _showVertexColor: 0
+    - _showVertexFlow: 0
+    - _useDepthBias: 0
+    - _useDrift: 1
+    - _useDrift2: 1
+    - _useDrift3: 1
+    - _useFlow: 0
+    - _useFlowMap2: 0
+    - _useFlowMap3: 0
+    - _useFlowMapGlobal: 0
+    - _useHeightBasedBlending: 1
+    - _useP1_2: 1
+    - _useP1_3: 1
+    - _useParallax: 0
+    - _useWetness: 0
+    - _wetnessEdgeBlend: 0.25
+    - _wetnessNormalModifier: 0.5
+    - _wetnessNormalModifier2: 0.5
+    - _wetnessNormalModifier3: 0.5
+    - _wetnessSmoothnessModifier: 0.8
+    - _wetnessSmoothnessModifier2: 0.8
+    - _wetnessSmoothnessModifier3: 0.8
+    m_Colors:
+    - _AlbedoColor: {r: 1, g: 0.015999973, b: 0.015999973, a: 1}
+    - _AlbedoColor2: {r: 0, g: 0.75172424, b: 1, a: 1}
+    - _AlbedoColor3: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0.016628662, g: 0, b: 0.17647058, a: 1}
+    - _EmissionColor2: {r: 0, g: 0.47210953, b: 0.5147059, a: 1}
+    - _EmissionColor3: {r: 0, g: 0, b: 0, a: 1}
+    - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
+    - _wetnessAlbedoModifier: {r: 0.3, g: 0.3, b: 0.35, a: 1}
+    - _wetnessAlbedoModifier2: {r: 0.3, g: 0.3, b: 0.35, a: 1}
+    - _wetnessAlbedoModifier3: {r: 0.3, g: 0.3, b: 0.35, a: 1}

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d7760253518006e4ba10709062366073
+labels:
+- file
+- playerprefs
+- preferences
+- save
+- persistent
+- xml
+- encryption
+- generic
+- savegame
+- progress
+- settings
+- prefs
+- encrypted
+- encrypt
+- safe
+- persistency
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
